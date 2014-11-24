@@ -1,0 +1,14 @@
+{
+  "name": "algorithm-js",
+  "version": "0.1.0",
+  "description": "An implementation of Selection Sort in JavaScript",
+  "main": "selection-sort.js",
+  "scripts": {
+    "test": "mocha selection-sort.test.js"
+  },
+  "keywords": [
+    "algorithms"
+  ],
+  "author": "Jake Pruitt",
+  "license": "ISC"
+}

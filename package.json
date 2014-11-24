@@ -1,0 +1,25 @@
+{
+  "name": "algorithm-js",
+  "version": "0.1.0",
+  "description": "A parent package to incorporate implementations of algorithms in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha **/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jrpruit1/algorithm-js"
+  },
+  "keywords": [
+    "algorithms"
+  ],
+  "author": "Jake Pruitt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrpruit1/algorithm-js/issues"
+  },
+  "homepage": "https://github.com/jrpruit1/algorithm-js",
+  "devDependencies": {
+    "mocha": "^2.0.1"
+  }
+}
